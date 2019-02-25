@@ -1,0 +1,7 @@
+Eli Oceanak
+COSC 2150 Section 10
+Lab 03
+
+I have imported operator. it contains the operator class, which is the class of operators.
+
+Other general purpose containers in python are sets and tuples.
